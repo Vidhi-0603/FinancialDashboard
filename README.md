@@ -33,7 +33,7 @@ A Node.js-based financial management API that allows users to track income and e
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Vidhi-0603/FinancialDashboard
    cd financialdashboard
    ```
 
